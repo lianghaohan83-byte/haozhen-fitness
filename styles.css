@@ -109,7 +109,7 @@ a {
 }
 
 .hero-media {
-  background-image: url("assets/fitness-hero.png");
+  background-image: url("fitness-hero.png");
   background-size: cover;
   background-position: center;
   transform: scale(1.02);
